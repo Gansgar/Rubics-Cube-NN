@@ -1,0 +1,1240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"retur",
+				"return_string\tstatement"
+			],
+			[
+				"rota",
+				"rotateXAxis\tfunction"
+			],
+			[
+				"rotate",
+				"rotateZAxis\tfunction"
+			],
+			[
+				"rot",
+				"rotateYAxis"
+			],
+			[
+				"Cube",
+				"CubeMath"
+			],
+			[
+				"get",
+				"getLocation"
+			],
+			[
+				"p",
+				"pi\tinstance"
+			],
+			[
+				"re",
+				"return_string\tstatement"
+			],
+			[
+				"retu",
+				"return_string\tstatement"
+			],
+			[
+				"n",
+				"None"
+			],
+			[
+				"ge",
+				"getNormal\tfunction"
+			],
+			[
+				"if",
+				"if\tkeyword"
+			],
+			[
+				"T",
+				"Tuple3d\tclass"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"do",
+				"divmod\tfunction"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"trans",
+				"transposed_grid"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"wei",
+				"weight"
+			],
+			[
+				"relat",
+				"relative_height"
+			],
+			[
+				"cumul",
+				"cumulative_height"
+			],
+			[
+				"abs",
+				"abs_reward"
+			],
+			[
+				"weig",
+				"weighted_height"
+			],
+			[
+				"cumu",
+				"cumulative_height"
+			],
+			[
+				"cum",
+				"cumulative_height"
+			],
+			[
+				"sort",
+				"sorted_parents"
+			],
+			[
+				"sor",
+				"sorted_parents"
+			],
+			[
+				"widt",
+				"min-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"spee",
+				"speed"
+			],
+			[
+				"cha",
+				"change_speed"
+			],
+			[
+				"speed",
+				"speed_index"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"current_gene",
+				"current_genome"
+			],
+			[
+				"curre",
+				"current_genome"
+			],
+			[
+				"ai",
+				"ai_info"
+			],
+			[
+				"upc",
+				"upcoming"
+			],
+			[
+				"upci",
+				"upcoming"
+			],
+			[
+				"upcim",
+				"upcoming_shape"
+			],
+			[
+				"appl",
+				"apply"
+			],
+			[
+				"rows",
+				"rows_cleared"
+			],
+			[
+				"to",
+				"to_clear_i"
+			],
+			[
+				"con",
+				"contains_empty_space"
+			],
+			[
+				"apply",
+				"applyShape"
+			],
+			[
+				"remove",
+				"removeShape"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"currn",
+				"current_shape"
+			],
+			[
+				"shape",
+				"shape"
+			],
+			[
+				"curren",
+				"current_shape"
+			],
+			[
+				"rnd",
+				"rnd_seed"
+			],
+			[
+				"shap",
+				"shape"
+			],
+			[
+				"upcom",
+				"upcoming_shape"
+			],
+			[
+				"font",
+				"font_string"
+			],
+			[
+				"replace",
+				"replaceAll"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"curer",
+				"current_shape"
+			],
+			[
+				"bag",
+				"bag_index"
+			],
+			[
+				"up",
+				"upcoming_shapes"
+			],
+			[
+				"current",
+				"current_shape"
+			],
+			[
+				"max",
+				"max_rating"
+			],
+			[
+				"old",
+				"oldX"
+			],
+			[
+				"wieght",
+				"weighed_height"
+			],
+			[
+				"movedown",
+				"move_down_results"
+			],
+			[
+				"move",
+				"move_down_results"
+			],
+			[
+				"update",
+				"updateScore"
+			],
+			[
+				"roations",
+				"rotations"
+			],
+			[
+				"possible",
+				"possible_moves"
+			],
+			[
+				"possil",
+				"possible_moves"
+			],
+			[
+				"moves",
+				"moves_taken"
+			],
+			[
+				"muation",
+				"mutation_step"
+			],
+			[
+				"mu",
+				"mutation_step"
+			],
+			[
+				"random",
+				"random"
+			],
+			[
+				"b",
+				"bee"
+			],
+			[
+				"weigh",
+				"weighed_height"
+			],
+			[
+				"gen",
+				"genomes"
+			],
+			[
+				"geno",
+				"genomes"
+			],
+			[
+				"genmo",
+				"genome"
+			],
+			[
+				"popul",
+				"population_size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"pay",
+				"payDate"
+			],
+			[
+				"date",
+				"date_input_format"
+			],
+			[
+				"str_replac",
+				"str_replace"
+			],
+			[
+				"date_create",
+				"date_create_from_format"
+			],
+			[
+				"work",
+				"work_hours"
+			],
+			[
+				"pa",
+				"payDate"
+			],
+			[
+				"invoi",
+				"invoiceRef"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"end",
+				"endOfLine"
+			],
+			[
+				"preg_mach",
+				"preg_match_all"
+			],
+			[
+				"encl",
+				"enclosure"
+			],
+			[
+				"jso",
+				"json_a"
+			],
+			[
+				"file",
+				"files\tstatement"
+			],
+			[
+				"fil",
+				"files\tstatement"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"s_2_c1",
+				"s_2_c_12\tmodule"
+			],
+			[
+				"print",
+				"print\tkeyword"
+			],
+			[
+				"custom",
+				"custom_oracle\tfunction"
+			],
+			[
+				"block",
+				"block_size\tstatement"
+			],
+			[
+				"pref",
+				"prefix_len\tstatement"
+			],
+			[
+				"prin",
+				"print\tfunction"
+			],
+			[
+				"prefix",
+				"prefix_len\tstatement"
+			],
+			[
+				"bloc",
+				"block_size"
+			],
+			[
+				"blok",
+				"block_size\tstatement"
+			],
+			[
+				"enc",
+				"enc_str\tstatement"
+			],
+			[
+				"encr",
+				"encryption_oracle_AES_ECB_with_prefix\tfunction"
+			],
+			[
+				"s_2_",
+				"s_2_c_12\tmodule"
+			],
+			[
+				"decr",
+				"decrypt_profile\tfunction"
+			],
+			[
+				"admin",
+				"admin_block\tstatement"
+			],
+			[
+				"blo",
+				"block_size\tparam"
+			],
+			[
+				"ecnr",
+				"encrypt_profile_for\tfunction"
+			],
+			[
+				"decdo",
+				"decoded_str\tstatement"
+			],
+			[
+				"goal",
+				"goal_try\tstatement"
+			],
+			[
+				"dec",
+				"decoded_str\tstatement"
+			],
+			[
+				"detec",
+				"detect_block_size\tfunction"
+			],
+			[
+				"break",
+				"break_ECB_oracle\tfunction"
+			],
+			[
+				"prof",
+				"profile_for\tfunction"
+			],
+			[
+				"k",
+				"k_v\tstatement"
+			],
+			[
+				"parse_",
+				"parse_k_v_2_data\tfunction"
+			],
+			[
+				"pad",
+				"PKCS_7_padding\tfunction"
+			],
+			[
+				"par",
+				"parse_data_to_k_v\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"evernote ",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote upd",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote new ",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"new note",
+				"Evernote: New empty note"
+			],
+			[
+				"evernote save",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote s",
+				"Evernote: Search Note"
+			],
+			[
+				"evernote em",
+				"Evernote: New empty note"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"evernote reconf",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mad",
+				"MacDown"
+			],
+			[
+				"Indent XML",
+				"Indent XML"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"xmlP",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"ttify",
+				"HTMLPrettify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimelint ",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"preview",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"finder",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package Control",
+				"Package Control: Remove Package"
+			],
+			[
+				"Markdown",
+				"Build With: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"AWK",
+				"Set Syntax: AWK"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"inst.size()",
+			"inst = sublime.View(0)",
+			"inst = sublime.View()",
+			"inst = sublime.View",
+			"sublime.View.size(self)",
+			"sublime.View.size()",
+			"sublime.View",
+			"print(__name__)",
+			"print(__main__)",
+			"from Crypto.Cipher import AES",
+			"print(\"test\")",
+			"__version__",
+			"version()",
+			"help()",
+			"help",
+			"sublimelinter3",
+			"sublimelinter",
+			"bashate"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator"
+	],
+	"file_history":
+	[
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/Tuple3d.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/CubeMath.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/Cell.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/CubeSim.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/README.md",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/simulator.sublime-project",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Simon/Rubics-Cube-NN/simulator/simulator.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Others/CAS/pack/Derivative.java",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Others/CAS/pack/Parser.java",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Others/CAS/pack/Main.java",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Others/CAS/pack/ExpressionTree.java",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Pathfinder/README",
+		"/Users/georg/Downloads/wordpress/wp-content/themes/twentyseventeen/inc/icon-functions.php",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/ThermalCameraTutorial/data/Android/notes/NOTES FROM Jeff",
+		"/Users/georg/Desktop/Franz Learning/[11-20].txt",
+		"/Users/georg/Desktop/Franz Learning/[21-30].txt",
+		"/Users/georg/Desktop/Franz Learning/full_de-fr.txt",
+		"/Users/georg/Desktop/Franz Learning/de-fr.csv",
+		"/Users/georg/Desktop/Franz Learning/fr-de.csv",
+		"/Users/georg/Desktop/Franz Learning/full_fr-de_2017-05-27T1300Z.txt",
+		"/Users/georg/Desktop/Franz Learning/learning.php",
+		"/Users/georg/Desktop/Franz Learning/vocabs.csv",
+		"/Users/georg/Desktop/Franz Learning/[10-20].txt",
+		"/Users/georg/Desktop/Franz Learning/[20-30]",
+		"/Users/georg/Desktop/Franz Learning/[1-10]",
+		"/Users/georg/Desktop/Franz Learning/full_de-fr_01.txt",
+		"/Users/georg/Desktop/Franz Learning/full_fr-de_01.txt",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/make child/TesNet.js",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/weighted genes/TesNet.js",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/index.html",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/my_archive.json",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/TesNet.js",
+		"/Users/georg/Documents/Projekte/Sprachen/Web (HTML:CSS:JS)/plain/Tetris - Genetic AI/working_archive.json",
+		"/Users/georg/Desktop/ic_reply_black_24px.svg",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/APKs/mapping-v8.txt",
+		"/Users/georg/Desktop/f.txt.json",
+		"/Users/georg/Downloads/f.txt.json",
+		"/Users/georg/Desktop/new.kml",
+		"/Users/georg/Desktop/america.kml",
+		"/Users/georg/Desktop/america.gpx",
+		"/Users/georg/Desktop/GPS device.kml",
+		"/Users/georg/Desktop/test.kml",
+		"/Users/georg/Desktop/test.gpx",
+		"/Users/georg/Desktop/2017 May 14-18 01 - nothing.gpx",
+		"/Users/georg/Desktop/2017 May 14-18 01 - nothing.kml",
+		"/Users/georg/Desktop/2017 May 14-18 01 - track.kml",
+		"/Users/georg/Desktop/2017 May 14-18 01 - track.gpx",
+		"/Users/georg/Desktop/2017 May 14-18 01 - unfiltered.kml",
+		"/Users/georg/Desktop/2017 May 14-18 01 - unfiltered.gpx",
+		"/Users/georg/Downloads/1495211588017.kml",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Concept/timeline_webpage/parser/convert_google_kml.py",
+		"/Users/georg/Desktop/out.kml",
+		"/Users/georg/Desktop/out03.kml",
+		"/Users/georg/Desktop/out04-large.kml",
+		"/Users/georg/Desktop/out05.kml",
+		"/Users/georg/Desktop/out06.kml",
+		"/Users/georg/Desktop/2017 May 14-18.kml",
+		"/Users/georg/Desktop/2017 May 14-18 02.kml",
+		"/Users/georg/Desktop/2017 May 14-18 03.kml",
+		"/Users/georg/Desktop/2017 May 14-18 04.kml",
+		"/Users/georg/Desktop/2017 May 14-18.gpx",
+		"/Users/georg/Desktop/2017 May 14-18 05.kml",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Concept/timeline_webpage/parser/tmp/out.kml",
+		"/Users/georg/Desktop/out02.xml",
+		"/Users/georg/Downloads/f.txt-month.json",
+		"/Users/georg/Downloads/f.txt-2d.json",
+		"/Users/georg/Downloads/stats%2Finstalls%2Finstalls_thermcam.georg.locationhistoryviewer_201705_overview.csv",
+		"/Users/georg/Downloads/full_general_data.csv",
+		"/Users/georg/Downloads/network.cap",
+		"/Users/georg/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/Users/georg/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/Users/georg/Downloads/history-2017-04-30.kml",
+		"/Users/georg/Documents/Books/Stundennachweis/Script/generator.php.md",
+		"/Users/georg/Documents/Books/Stundennachweis/IBRF GmbH/tmp/out.tex",
+		"/Users/georg/Documents/Books/Stundennachweis/Script/generator.php",
+		"/Users/georg/Downloads/latex-rechnung-master/example.php",
+		"/Users/georg/Downloads/latex-rechnung-master/_invoice.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/_work_hours.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/out.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/generator.php",
+		"/Users/georg/Downloads/latex-rechnung-master/_main.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/work_hours.csv",
+		"/Users/georg/Downloads/latex-rechnung-master/work_hours02.csv",
+		"/Users/georg/Downloads/latex-rechnung-master/_data.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/sender.config",
+		"/Users/georg/Downloads/latex-rechnung-master/customer.config",
+		"/Users/georg/Downloads/latex-rechnung-master/work_hours_02.csv",
+		"/Users/georg/Downloads/latex-rechnung-master/company.config",
+		"/Users/georg/Downloads/latex-rechnung-master/config.json",
+		"/Users/georg/Downloads/latex-rechnung-master/out/out.tex",
+		"/Users/georg/Downloads/latex-rechnung-master/generator.py",
+		"/Users/georg/Downloads/latex-rechnung-master/invoice.def",
+		"/Users/georg/Downloads/invoice/invoice.cls",
+		"/Users/georg/Downloads/invoice/invoice.tex",
+		"/Users/georg/Desktop/Untitled-2.tex",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Code/LocationHistoryViewer/app/build/outputs/mapping/release/mapping.txt",
+		"/Users/georg/Downloads/route.gpx.xml",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Rechnung Generator/generator.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Rechnung Generator/default.conf",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Rechnung Generator/basic.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Python/Rechnung Generator/test.py",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/APKs/mapping-v7.txt",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Code/LocationHistoryViewer/app/build/outputs/mapping/release/dump.txt",
+		"/Users/georg/Downloads/logcat.txt",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Non Code/Store entry/description_01.txt",
+		"/Users/georg/Downloads/out_3.json",
+		"/Users/georg/Downloads/out_2.json",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Non Code/Icons/logout.svg",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Code/LocationHistoryViewer/app/src/main/aidl/com.android.vending.billing/test.aidl",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/FlirOneTest_01/app/src/main/java/georg/com/thermal_camera/Preferences/SettingsFragment.java",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/FlirOneTest_01/app/src/main/res/values/strings_normal.xml",
+		"/Users/georg/Documents/Projekte/Sprachen/Java/Android/LocationHistory/Concept/timeline_webpage/location_data_02_02_16-out.txt",
+		"/Users/georg/Downloads/cookies.txt",
+		"/Users/georg/Downloads/out_1.json",
+		"/Users/georg/Downloads/ma_2017_04_13.json",
+		"/Users/georg/Downloads/f (4).txt",
+		"/Users/georg/Downloads/ma_2017_04_07.json",
+		"/Users/georg/Downloads/f.txt_chech.json",
+		"/Users/georg/Downloads/f.txt-5.json",
+		"/Users/georg/Downloads/cookies02.txt",
+		"/Users/georg/Downloads/georg.txt",
+		"/Users/georg/Downloads/f.txt",
+		"/Users/georg/Downloads/f (1).txt",
+		"/Users/georg/Downloads/ma02.json",
+		"/Users/georg/Downloads/pl.json",
+		"/Users/georg/Downloads/pl_2.json",
+		"/Users/georg/Downloads/pl_4.json",
+		"/Users/georg/Downloads/floatingsearchview-master/library/src/main/res/values/dimens.xml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/georg/Documents/Projekte/Sprachen/HTML/PhoneGap/Plankarten - mobil/plugins/cordova-sqlite-storage"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pass",
+			"^\\n",
+			"^$^",
+			"^$.",
+			"^$",
+			"déposs",
+			"getHoles",
+			"weighed_height",
+			"getAllPossibleMoves",
+			"moves",
+			"move.algorithm",
+			"loadArchive",
+			"fitness",
+			"relativeHeight",
+			"weightedHeight",
+			"rowsCleared",
+			"currentGeneration",
+			"populationSize",
+			"cumulativeHeight",
+			"localStorage",
+			"population_size",
+			"getState",
+			"if (ai)",
+			"colors",
+			"updateScore",
+			"update",
+			"updae",
+			"loadArchive",
+			"randomChoice",
+			"randomWeightedNumBetween",
+			"genomes",
+			"Arrays",
+			"localStorage",
+			"archive",
+			"loadArchive",
+			"updateScore",
+			"applyShape",
+			"results.lost",
+			"reset()",
+			"setInterval",
+			"rotateShape",
+			";\n",
+			"collide",
+			"getState",
+			"round_state",
+			"getState",
+			"createInitialPopulation",
+			"update",
+			"upcoming_shapes",
+			"clone(score)",
+			"evaluateNextGenome",
+			"thermcam.georg.locationhistoryviewer.get_data.a",
+			" thermcam.georg.locationhistoryviewer.b.d",
+			"-> b",
+			"-> a",
+			"thermcam.georg.locationhistoryviewer.b.c",
+			"multiTrack",
+			"13.52146, 52.63671",
+			"52.63671",
+			"52.636710",
+			"[^x]",
+			", ",
+			",",
+			"foot",
+			"pagemark",
+			"nobreakspace",
+			"curren",
+			"fromaddress",
+			"date",
+			"place",
+			"fromaddress",
+			"accountRCPT",
+			"accountNumber",
+			"accountBLZ",
+			"thermcam.georg.locationhistoryviewer.a.e.a",
+			"com.google.android.gms.maps.c",
+			"int com.google.android.gms.maps.c",
+			"thermcam.georg.locationhistoryviewer.b",
+			"thermcam.georg.locationhistoryviewer",
+			"NullPointer",
+			"e : 2",
+			"e : 29",
+			",[1129,\"0.7 mi\"],1]",
+			",[1129,\"0.7 mi\"]\n,1]",
+			";",
+			"SNID",
+			"null,5,null",
+			"null,100,null",
+			"bw7uWNKLLsL0UOjwnJgJ",
+			"2013,3,1",
+			"2013.",
+			"&nbsp;",
+			"'!\\d+m",
+			"'.*",
+			".*type=\"text/javascript\">\\(function\\(\\){var initialData='",
+			".*type=\"text/javascript\">(function(){var initialData='",
+			"\"j\"",
+			"\"m\"",
+			"mab",
+			"mab\\",
+			"mab",
+			"LG4lHg6m",
+			"\\n",
+			"^D/HTML: ",
+			"D/HTML: ",
+			"body",
+			"ffd8",
+			"a1c86c645135814dde2cb36898b27ebe",
+			"28de1a116fc8942bdce7a757b4538f18",
+			"645c5988e0a52b9a63fda097a4a1672b",
+			"ad30b034cd5b63c24e6f9d93d84c01b9",
+			"extra_msg",
+			"failed",
+			"Applications did fail to install",
+			"georg.friedrich.Thermal-Camera-free",
+			"def test_for(_is, _shld_be, comment):\n    print(\"Result: \", _is)\n    print(comment, \"✔\" if _is == _shld_be else \"✗\")\n    if _is != _shld_be:\n        print(\"Should be: \", _shld_be)",
+			"def test_for(_is, _shld_be, comment):\n",
+			"def test_for(_is, _shld_be, comment):\n    print(\"Result: \", _is)\n    print(comment, \"✔\" if _is == _shld_be else \"✗\")\n    if _is != _shld_be:\n        print(\"Should be: \", _shld_be)",
+			"_tileOnError",
+			"_createCurrentCoords",
+			"_getZoomForUrl",
+			"getTileUrl",
+			"base64Prefix",
+			"mbTilesPlugin",
+			"_getOffsetZoom",
+			"_getWrapTileNum",
+			"_adjustTilePoint",
+			"callInitHooks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"weighted_height",
+			"relative_height",
+			"weighted_height",
+			"rows_cleared",
+			"current_generation",
+			"population_size",
+			"cumulative_height",
+			"",
+			"\\n",
+			" ",
+			"    ",
+			"",
+			" 'p' => [0, 1]],",
+			"['f' => ",
+			",",
+			"\"",
+			"    ",
+			"=",
+			"",
+			"a=a, b=b, scale=scale",
+			"    ",
+			"_points",
+			"_debug",
+			" == ",
+			"FLIR",
+			"000000",
+			"\";\\n",
+			"\";",
+			",",
+			";",
+			"\\)",
+			"\\(",
+			"\\]",
+			"\\[",
+			"\\.",
+			"\\/",
+			"\\)",
+			"\\(",
+			"\\]",
+			"\\[",
+			"\\/",
+			"\\\\n",
+			"\\n",
+			"",
+			"video",
+			"+",
+			"@",
+			"ö"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 94.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "simulator.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
